@@ -18,6 +18,12 @@ Icon
 # NEVER publish these files via Git!
 # -------------SECURITY-------------
 
+# Custom
+# ---------------
+/kirby
+/vendor
+
+
 # Cache Files
 # ---------------
 
@@ -39,8 +45,3 @@ Icon
 # License
 # ---------------
 /site/config/.license
-
-# Custom
-# ---------------
-/kirby
-/vendor
